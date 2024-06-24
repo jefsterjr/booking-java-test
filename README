@@ -1,0 +1,13 @@
+Hostfully - REST API
+Pre conditions:
+
+Install Java 21;
+Install Maven 3.x;
+
+hosftully-api documentation;
+Access Swagger:
+In order to access swagger open your favourite browser and enter following address: http://localhost:8080/swagger-ui.html
+
+Access H2 Database:
+In order to access H2 database web console open your favourite browser and enter following address: http://localhost:8080/h2-console/ and edit following parameters in h2-login console:
+ó
