@@ -5,7 +5,6 @@ Install Java 21;
 Install Maven 3. x;
 
 ## hosftully-api documentation;
-Access Swagger:
 To access Swagger open your favorite browser and enter the following address: http://localhost:8080/swagger-ui.html
 
 ## Access H2 Database:
